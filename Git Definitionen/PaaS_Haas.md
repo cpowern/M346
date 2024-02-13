@@ -1,0 +1,3 @@
+# PaaS (Platform as a Service)
+
+PaaS steht für "Platform as a Service" und bezieht sich auf eine Cloud-Computing-Dienstleistung, bei der Entwicklern eine Plattform bereitgestellt wird, auf der sie Anwendungen entwickeln, ausführen und verwalten können, ohne sich um die zugrunde liegende Infrastruktur kümmern zu müssen. PaaS bietet Tools und Dienste wie Entwicklungsumgebungen, Datenbanken, Middleware und mehr, die die Entwicklung und Bereitstellung von Anwendungen beschleunigen können. Durch die Nutzung von PaaS können Entwickler ihre Anwendungen schnell erstellen, testen und skalieren, ohne Zeit und Ressourcen für die Verwaltung der zugrunde liegenden Infrastruktur aufwenden zu müssen.

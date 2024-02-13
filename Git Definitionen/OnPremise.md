@@ -1,0 +1,3 @@
+# OnPremise
+
+OnPremise, auch bekannt als On-Premises oder On-Prem, bezieht sich auf die Bereitstellung von Software oder Hardware, die lokal in einem physischen Rechenzentrum oder Serverraum eines Unternehmens installiert und betrieben wird. Im Gegensatz zu Cloud-basierten Diensten werden On-Premise-Ressourcen direkt auf den Servern des Unternehmens ausgeführt und gewartet. Dies bietet Unternehmen volle Kontrolle über ihre IT-Infrastruktur und Daten, kann jedoch mit höheren Kosten und Komplexitäten verbunden sein, da sie für den Kauf, die Installation, das Upgrade und die Wartung von Hardware und Software verantwortlich sind.
