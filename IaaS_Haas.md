@@ -1,3 +1,0 @@
-# IaaS (Infrastructure as a Service)
-
-IaaS steht für "Infrastructure as a Service" und bezieht sich auf eine Cloud-Computing-Dienstleistung, bei der grundlegende IT-Infrastruktur wie virtuelle Maschinen, Speicher, Netzwerke und andere Ressourcen über das Internet bereitgestellt werden. Kunden können diese Ressourcen nach Bedarf nutzen, ohne physische Hardware oder Server vor Ort zu besitzen oder zu warten. IaaS-Anbieter stellen die gesamte Infrastruktur bereit und kümmern sich um Wartung, Skalierung und Sicherheit. Dies ermöglicht es Unternehmen, schnell und flexibel auf sich ändernde Anforderungen zuzugreifen und zu reagieren, ohne große Investitionen in Hardware tätigen zu müssen.
