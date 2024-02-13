@@ -1,3 +1,0 @@
-# SaaS (Software as a Service)
-
-SaaS steht für "Software as a Service" und bezieht sich auf eine Cloud-Computing-Dienstleistung, bei der Softwareanwendungen über das Internet bereitgestellt und als Service abonniert werden können. Benutzer können auf SaaS-Anwendungen über Webbrowser oder APIs zugreifen, ohne die Software auf ihren eigenen Geräten zu installieren oder zu warten. SaaS-Anbieter hosten, warten und aktualisieren die Software, während Benutzer einfach auf die Anwendungen zugreifen und sie nutzen können. Dies ermöglicht es Unternehmen, schnell auf Softwarelösungen zuzugreifen und diese zu nutzen, ohne die damit verbundenen Kosten und Komplexitäten der Bereitstellung und Wartung traditioneller On-Premise-Software.
